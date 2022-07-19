@@ -1,4 +1,6 @@
 # Cyber-Security-Lesson-Lab-3
+
+There is the main problem about the kernel , we know how to use it , how to challange it
 -------------------- Get İnformation about the system -------------------------------
   203  ls
   204  clear
